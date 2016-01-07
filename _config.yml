@@ -1,0 +1,28 @@
+name: P4
+favicon: null
+layout_spectrum: 0.4326904129702598
+typography_spectrum: 0.5259741272311658
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.17884644167497754
+  lightness: 0.9622147029731423
+  saturation: 0.40317307133227587
+  rhythmicContrast: 0.352118510985747
+purpose: []
