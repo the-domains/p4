@@ -1,6 +1,6 @@
 name: P4
 favicon: null
-layout_spectrum: 0.4326904129702598
+layout_spectrum: 1
 typography_spectrum: 0.5259741272311658
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#414850'
     - '#718b44'
     - '#dd8e94'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.9622147029731423
   saturation: 0.40317307133227587
   rhythmicContrast: 0.352118510985747
